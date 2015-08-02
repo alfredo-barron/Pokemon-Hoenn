@@ -1,0 +1,11 @@
+#Proyecto Pokemon Base de Datos
+Integrante:
+Alfredo Barrón Rodriguez
+Usuario: Arrecipolis
+Contraseña: 110992
+
+Linea de Conexion
+User:"root"
+Password:"110992"
+URL: "localhost"
+BD: "centrospokemon"
